@@ -19,7 +19,7 @@
     "test": "base test"
   },
   "devDependencies": {
-    "@dword-design/base": "^8.1.11",
+    "@dword-design/base": "^9.0.0",
     "nock": "^13.0.4"
   },
   "peerDependencies": {
