@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/dword-design/tester-plugin-nock/compare/v1.0.4...v1.0.5) (2023-01-07)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#44](https://github.com/dword-design/tester-plugin-nock/issues/44)) ([6cdc8e9](https://github.com/dword-design/tester-plugin-nock/commit/6cdc8e9c9542160aa4fd5ece5c618c7fada0fa86))
+
 ## [1.0.4](https://github.com/dword-design/tester-plugin-nock/compare/v1.0.3...v1.0.4) (2022-01-12)
 
 
