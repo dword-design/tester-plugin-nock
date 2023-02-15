@@ -7,7 +7,7 @@ import fs from 'fs-extra'
 
 export default tester(
   {
-    'multiple calls': async () => {
+    clean: async () => {
       await fs.outputFile(
         'index.spec.js',
         endent`
