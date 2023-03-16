@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/dword-design/tester-plugin-nock/compare/v1.0.9...v1.0.10) (2023-03-16)
+
+
+### Bug Fixes
+
+* update dependency execa to v7.1.1 ([d9322cf](https://github.com/dword-design/tester-plugin-nock/commit/d9322cfac71673aec2b9460f9d43a3efbef79022))
+
 ## [1.0.9](https://github.com/dword-design/tester-plugin-nock/compare/v1.0.8...v1.0.9) (2023-03-16)
 
 
