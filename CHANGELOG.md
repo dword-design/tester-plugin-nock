@@ -1,3 +1,10 @@
+## [1.0.16](https://github.com/dword-design/tester-plugin-nock/compare/v1.0.15...v1.0.16) (2023-03-20)
+
+
+### Bug Fixes
+
+* update dependency fs-extra to v11.1.1 ([600b46e](https://github.com/dword-design/tester-plugin-nock/commit/600b46eba7c16cae36deafdfbb566d7e12eb39c5))
+
 ## [1.0.15](https://github.com/dword-design/tester-plugin-nock/compare/v1.0.14...v1.0.15) (2023-03-19)
 
 
