@@ -1,3 +1,10 @@
+## [1.0.17](https://github.com/dword-design/tester-plugin-nock/compare/v1.0.16...v1.0.17) (2023-04-05)
+
+
+### Bug Fixes
+
+* update dependency axios to v1.3.5 ([5215585](https://github.com/dword-design/tester-plugin-nock/commit/52155852ef28d374ea5150999b68427ac832afa3))
+
 ## [1.0.16](https://github.com/dword-design/tester-plugin-nock/compare/v1.0.15...v1.0.16) (2023-03-20)
 
 
