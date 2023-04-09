@@ -1,3 +1,10 @@
+## [1.0.18](https://github.com/dword-design/tester-plugin-nock/compare/v1.0.17...v1.0.18) (2023-04-09)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/tester to v2.0.14 ([fdd009a](https://github.com/dword-design/tester-plugin-nock/commit/fdd009aa2d5d7aef7cc3b3666b77d73cc9e01639))
+
 ## [1.0.17](https://github.com/dword-design/tester-plugin-nock/compare/v1.0.16...v1.0.17) (2023-04-05)
 
 
