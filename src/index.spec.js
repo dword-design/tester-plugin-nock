@@ -14,7 +14,7 @@ export default tester(
           import nock from 'nock'
           import { expect } from 'expect'
           import axios from '${packageName`axios`}'
-          
+
           export default {
             1: async () => {
               nock('http://example.com').get('/').reply(200, 'foo')
@@ -22,7 +22,7 @@ export default tester(
             },
             2: () => expect(axios.get('http://example.com')).rejects.toThrow('Nock: No match for request'),
           }
-    `
+        `,
       )
       await execaCommand('mocha --ui exports index.spec.js')
     },
@@ -33,5 +33,5 @@ export default tester(
       beforeEach: () =>
         fs.outputFile('package.json', JSON.stringify({ type: 'module' })),
     },
-  ]
+  ],
 )
