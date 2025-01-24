@@ -32,10 +32,10 @@
     "execa": "^7.0.0",
     "fs-extra": "^11.1.0",
     "mocha": "^10.2.0",
-    "nock": "^13.0.4"
+    "nock": "^14.0.0"
   },
   "peerDependencies": {
-    "nock": "^13.0.4"
+    "nock": "^14.0.0"
   },
   "engines": {
     "node": ">=14"
